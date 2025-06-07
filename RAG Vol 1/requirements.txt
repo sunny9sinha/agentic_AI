@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+PyMuPDF
+langchain
+langchain-community
+langchain-text-splitters
+langchain-experimental
+pinecone
+sentence-transformers
+groq
+torch
+scikit-learn # For MMR cosine similarity
+python-docx # For DOCX output
+pypdf
+rank_bm25
